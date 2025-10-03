@@ -14,7 +14,7 @@ Heliactyl is a high-performance client area for the Pterodactyl Panel. It allows
 
 You can get started straight away by following these steps:
 
-1. Clone the repo: Run `git clone https://github.com/heliactyloss/heliactyl` on your machine
+1. Clone the repo: Run `git clone https://github.com/AdamKryach/ptero-dashboard` on your machine
 2. Enter the directory and configure the `settings.json` file - most are optional except the Pterodactyl and OAuth2 settings which **must** be configured
 3. Check everything out and make sure you've configured Heliactyl correctly
 4. Create SSL certificates for your target domain and set up the NGINX reverse proxy
